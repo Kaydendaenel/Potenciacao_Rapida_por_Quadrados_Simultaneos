@@ -3,6 +3,8 @@
 **Disciplina:** Matemática Discreta — Verificação Formal de Programas
 **Professor:** Edjard Mota — Instituto de Computação, UFAM
 **Módulo 4:** Problemas Combinados (Indução + Terminação)
+# Trabalho de Matemática Discreta — Verificação de Código via Asserções
+**Equipe:** Nícolas Torres Ferreira, Robert Marques De Lima, Guilherme Martins Da Silva
 
 ---
 
