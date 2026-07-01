@@ -1,0 +1,1 @@
+# Potenciacao_Rapida_por_Quadrados_Simultaneos
